@@ -1,7 +1,7 @@
 # Site settings
 title: Magento Cheatsheet
 email: hello@adampaterson.co.uk
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "http://adam-paterson.github.io/magento-cheatsheet/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: adam_paterson
 github_username:  adam-paterson
